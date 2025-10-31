@@ -12,6 +12,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         print("Hello world :p ~ from dev")
+        print("Its time to make a merge conflict ;))")
     }
 
 
